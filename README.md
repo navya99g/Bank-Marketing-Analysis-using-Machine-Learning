@@ -4,7 +4,7 @@
 Predict whether a bank customer will subscribe to a term deposit based on demographic and marketing campaign data.
 
 ## Dataset
-Public Bank Marketing Dataset (UCI / Kaggle)
+Bank Marketing dataset
 
 ## Project Objective
 - Analyse customer behaviour
